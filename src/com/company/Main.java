@@ -1,6 +1,4 @@
-package com.company;
 
-public class Main {
     
     public static int maxSumTwoNoOverlap(int [] A, int K, int L) {
 
@@ -38,8 +36,3 @@ public class Main {
     }
 
 
-    public static void main(String[] args) {
-        int[] arr = {3, 8, 1 ,4};
-        System.out.print(maxSumTwoNoOverlap(arr, 1, 1));
-    }
-}
